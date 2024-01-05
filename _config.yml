@@ -13,7 +13,7 @@ name                     : &name "Jin Ke"
 description              : &description "personal description"
 url                      : "https://jinke828.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jinke828/jinke.github.io"
+repository               : "jinke828/jinke828.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
