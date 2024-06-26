@@ -21,5 +21,6 @@ Click [here](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v1) to rea
 
 Ke, J., Song, H., Bai, Z., Rosenberg, M. D., Leong, Y. C. (2024). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. _bioRxiv_.
 
-Paper forthcoming (plz stay tuned!)
+Paper forthcoming (plz stay tuned!):
+
 Ke, J., Chamberlain, T.A., Corriveau, A., Song, H., Zhang, Z., Park, J., Ding, X., Martinez, T., Sams, L., Leong, Y.C., & Rosenberg, M.D. The Neural Signatures of Ongoing Thoughts During Rest. (in prep).
