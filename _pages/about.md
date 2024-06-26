@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! This is Jin.
 
-I am an incoming PhD student (24 fall) working with [Dr. Marvin Chun](https://www.marvinchun.com/) at Yale University.
+I am an incoming PhD student (24 Fall) working with [Dr. Marvin Chun](https://www.marvinchun.com/) at Yale University.
 
 I obtained my B.S. in Psychology and Environmental Science from Peking University, where I worked with [Dr. Xin Zhang](https://www.psy.pku.edu.cn/szdw/qzjy/fjs/zx/index.htm) on emotion perception and memory. I then completed a M.A. in Psychology from the University of Chicago with a certificate in Computational Social Sciences. I worked with [Dr. Boaz Keysar](https://mdl.uchicago.edu/) on my master's thesis studying trust in uncertainty.
 
