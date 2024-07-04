@@ -26,4 +26,4 @@ Paper forthcoming (plz stay tuned!):
 Ke, J., Chamberlain, T.A., Corriveau, A., Song, H., Zhang, Z., Park, J., Ding, X., Martinez, T., Sams, L., Leong, Y.C., & Rosenberg, M.D. The Neural Signatures of Ongoing Thoughts During Rest. (in prep).
 
 What I'm doing in the summer before starting grad school (other than writing paper :P): editting videos!
-Check out this vlog to see my last days before graduating from college: [《离开北大前要做的54件事》](https://b23.tv/hPn1f86)
+Check out this [vlog](https://b23.tv/hPn1f86) to see my last days before graduating from college: 《离开北大前要做的54件事》
