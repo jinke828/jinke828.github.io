@@ -19,11 +19,8 @@ After that I worked as a research specialist in the Cognition, Attention, and Br
 
 Click [here](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v1) to read a recent paper:
 
-Ke, J., Song, H., Bai, Z., Rosenberg, M. D., Leong, Y. C. (2024). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. _bioRxiv_.
+Ke, J., Song, H., Bai, Z., Rosenberg, M. D., Leong, Y. C. (_under revision_). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. _bioRxiv_.
 
 Paper forthcoming (plz stay tuned!):
 
-Ke, J., Chamberlain, T.A., Corriveau, A., Song, H., Zhang, Z., Park, J., Ding, X., Martinez, T., Sams, L., Leong, Y.C., & Rosenberg, M.D. The Neural Signatures of Ongoing Thoughts During Rest. (in prep).
-
-What I'm doing in the summer before starting grad school (other than paper writing :P): editting videos!
-Check out [this vlog](https://b23.tv/hPn1f86) to see my last days before graduating from college.
+Ke, J., Chamberlain, T.A., Corriveau, A., Song, H., Zhang, Z., Martinez, T., Sams, L., Leong, Y.C., & Rosenberg, M.D. (_in prep_). Spontaneous thoughts reflect functional brain organization and behavior.
