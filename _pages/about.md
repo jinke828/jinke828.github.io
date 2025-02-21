@@ -21,6 +21,6 @@ Click [here](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v1) to rea
 
 Ke, J., Song, H., Bai, Z., Rosenberg, M. D., Leong, Y. C. (_under revision_). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. _bioRxiv_.
 
-Paper forthcoming (plz stay tuned!):
+Paper forthcoming:
 
 Ke, J., Chamberlain, T.A., Corriveau, A., Song, H., Zhang, Z., Martinez, T., Sams, L., Leong, Y.C., & Rosenberg, M.D. (_in prep_). Spontaneous thoughts reflect functional brain organization and behavior.
