@@ -17,7 +17,7 @@ I am a first-year PhD student working with [Marvin Chun](https://www.marvinchun.
 
 I am a computational cognitive neuroscientist studying the neurocomputational mechanisms of everyday human cognition using fMRI, machine learning, deep learning, large language models and naturalistic paradigms. Below I feature some main research threads:
 
-
+<br>
 **I. Decoding human cognition from neural dynamics in naturalistic contexts**
 
 The human mind wanders frequently. How does the wandering mind reflect functional brain organization and everyday behavior? We developed predictive models of spontaneous thoughts from resting-state neural dynamics, which generalized to reveal robust associations with (1) neural synchrony during movie-watching and (2) cognitive abilities, psychiatric symptoms, and personality traits along a holistic, positive-negative axis of covariation. This suggests spontaneous thoughts may offer a unique window into the inner mental world, capturing individual idiosyncrasies and shaping daily subjective experience (Ke et al., _in prep_). 
@@ -26,14 +26,17 @@ In a seperate line of work, we demonstrated that predictive models trained on wh
 
 To further unpack the arousal representation and its consequences on real-world memory, we combined fMRI, graph theory, text analyses, and pupillometry and revealed that emotional arousal enhances memory encoding by strengthening functional integration across brain networks [(Park et al., _bioRxiv_, 2025)](https://www.biorxiv.org/content/10.1101/2025.03.13.643125v1). Together, these work advance a cross-level understanding of emotional memories that bridges large-scale brain network dynamics, affective states and ongoing cognition.
 
+<br>
 **II. Narrative comprehension and its consequences on social cognition**
 
 Edits in progress
 
+<br>
 **III. Cognitive and neural basis of attention**
 
 Edits in progress
 
+<br>
 **IV. Brain-computer interface**
 
 Much of my ongoing & future graduate research will focus on building non-invasive brain-computer interfaces to restore or enhance human cognitive abilities. Please stay tuned for this section.
