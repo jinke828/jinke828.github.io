@@ -28,14 +28,9 @@ To further unpack the arousal representation and its consequences on real-world 
 
 **II. Narrative comprehension and its consequences on social cognition**
 
-Edits in progress
+We experience a subjective feeling of "aha" at moments of new understanding. How does our brain support process in our daily life? We scanned 36 participants watching the first episode of _This Is Us_ with subjective report of insight moments and impressions on the characters. We observed a cortical reinstatement of causally related events, which drives neural pattern shifts ~ 2s prior to the aha moment [(Song et al., _bioRxiv_, 2025)](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1). Such neural pattern shifts at insight moments of new character comprehension reflect social impression updating (Ke et al., _in prep_). Together, these work reveal the cognitive and neural mechanisms of narrative comprehension and its consequences on social cognition.
 
 
-**III. Cognitive and neural basis of attention**
-
-Edits in progress
-
-
-**IV. Brain-computer interface**
+**III. Brain-computer interface**
 
 Much of my ongoing & future graduate research will focus on building non-invasive brain-computer interfaces to restore or enhance human cognitive abilities. Please stay tuned for this section.
