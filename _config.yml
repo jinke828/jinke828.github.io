@@ -86,8 +86,8 @@ author:
   location         : "New Haven, CT"
   employer         :
   pubmed           : 
- #  googlescholar    : "https://scholar.google.com/citations?user=LGUDeOsAAAAJ&hl=en&oi=ao"
-# email            : "jin.ke@yale.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=LGUDeOsAAAAJ&hl=en&oi=ao"
+  email            : "jin.ke@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,8 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
-  bluesky          : "jinke.bsky.social"
+  twitter          : "https://bsky.app/profile/jinke.bsky.social"
   vine             :
   weibo            :
   xing             :
