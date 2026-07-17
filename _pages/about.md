@@ -15,4 +15,5 @@ I am a computational cognitive neuroscientist studying how brain dynamics give r
 I am currently a PhD student working with [Marvin Chun](https://www.marvinchun.com/) at Yale University. I obtained a M.A. in Psychology from the University of Chicago working with [Yuan Chang Leong](https://mcnlab.uchicago.edu/) and then worked as a research specialist with [Monica Rosenberg](https://cablab.uchicago.edu/). Before that I received undergraduate training from Peking University, where I double-majored in Psychology and Environmental Sciences and was mentored by [Xin Zhang](https://www.psy.pku.edu.cn/szdw/qzjy/fjs/zx/index.htm). At SANS2025 in Chicago, I owed Hayoung Song and JeongJun Park a drink which I will pay them back at CCN2026 in NYC.
 
 Email: jin.ke@yale.edu
+
 [Google Scholar](https://scholar.google.com/citations?user=LGUDeOsAAAAJ&hl=en&oi=ao)
